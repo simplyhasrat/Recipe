@@ -1,2 +1,2 @@
 # Recipe
-A webpage that displays recipe for pancakes made using html.
+A simple webpage that displays a recipe, made using html.
